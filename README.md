@@ -7,3 +7,5 @@ fuzzywuzzy
 python-Levenshtein
 openpyxl
 xlsxwriter
+plotly
+fuzzywuzzy
